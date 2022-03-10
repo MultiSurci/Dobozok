@@ -1,4 +1,5 @@
 li{
+ 
   background-color:aqua;
   margin:2px;
   padding: 30px;
@@ -10,7 +11,10 @@ li:hover{
   background-color: tomato;
 }
 a{
-  color: black;
+  color: green;
   text-decoration: none;
   
+}
+a:hover{
+  color:white;
 }
