@@ -1,1 +1,14 @@
-
+li{
+  background:lightgrey;
+  
+  padding: 30px;
+  float:right;
+  display:inline;
+}
+li:hover{
+  background-color: orange;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
